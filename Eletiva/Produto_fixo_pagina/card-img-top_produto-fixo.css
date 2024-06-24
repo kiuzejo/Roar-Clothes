@@ -1,0 +1,54 @@
+@media (min-width: 577px) and (max-width:768px){
+
+  .card-img-top{
+
+  height:250px !important;
+  width:250px !important;
+    
+  }
+  
+}
+
+@media (min-width: 769px) and (max-width:992px){
+
+  .card-img-top{
+
+  height:340px !important;
+  width:340px !important;
+
+  }
+  
+}
+
+@media (min-width: 993px) and (max-width:1200px){
+
+  .card-img-top{
+
+  height:430px !important;
+  width:430px !important;
+
+  }
+  
+}
+
+@media (min-width: 1200px) and (max-width:1488px){
+
+  .card-img-top{
+
+  height:500px !important;
+  width:500px !important;
+
+  }
+  
+}
+
+@media (min-width: 1489px){
+
+  .card-img-top{
+
+  height:36vw !important;
+  width:40vw !important;
+
+  }
+  
+}

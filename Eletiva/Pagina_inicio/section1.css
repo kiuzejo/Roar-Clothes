@@ -1,0 +1,175 @@
+@media (max-width:300px) {
+
+section{
+    
+    margin-top: 10%;
+
+}
+
+.mae{
+
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+
+}
+
+.carousel-inner{
+
+    height: 275px !important;
+    width: 80vw !important;
+    overflow: hidden !important;
+
+}
+
+}
+
+@media (min-width:301px) and (max-width: 720px){
+
+    section{
+        
+        margin-top: 10%;
+    
+    }
+    
+    .mae{
+    
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+    
+    }
+    
+    .carousel-inner{
+    
+        height: 375px !important;
+        width: 80vw !important;
+        overflow: hidden !important;
+    
+    }
+
+}
+
+@media (min-width:721px) and (max-width:1200px){
+
+    section{
+    
+        margin-top: 10%;
+    
+    }
+    
+    .mae{
+    
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+    
+    }
+    
+    .carousel-inner{
+    
+        height: 500px !important;
+        width: 80vw !important;
+        overflow: hidden !important;
+    
+    }
+
+}
+
+@media (min-width:1201px) and (max-width:1487px) {
+
+    section{
+    
+        margin-top: 5%;
+    
+    }
+    
+    .mae{
+    
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+    
+    }
+    
+    .carousel-inner{
+    
+        height: 50vw !important;
+        width: 80vw !important;
+        overflow: hidden !important;
+    
+    }
+
+    .carousel-item{
+
+        justify-content: center !important;
+        background-position: center !important;
+
+    }
+ 
+    
+
+    .carousel-inner .carousel-item{
+
+        height: 100% !important;
+        width: 100% !important;
+
+    }
+
+    .carousel-item .d-block{
+
+        height: 100% !important;
+        width: 100% !important;
+
+    }
+
+}
+
+@media (min-width:1488px) {
+
+section{
+    
+    margin-top: 5%;
+
+}
+
+.mae{
+
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+
+}
+
+.carousel-inner{
+
+    height: 50vw !important;
+    width: 80vw !important;
+    overflow: hidden !important;
+
+}
+
+.carousel-item{
+
+    justify-content: center !important;
+    background-position: center !important;
+
+}
+
+
+.carousel-inner .carousel-item{
+
+    height: 100% !important;
+    width: 100% !important;
+
+}
+
+.carousel-item .d-block{
+
+    height: 100% !important;
+    width: 100% !important;
+
+}
+
+}
+

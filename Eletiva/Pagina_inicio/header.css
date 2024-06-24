@@ -1,0 +1,295 @@
+@media (max-width:300px) {
+
+    #div_header_1{
+    
+        padding-bottom: 1% !important;
+        display: flex;
+        align-items: center;
+        gap:3%;
+    
+    }
+    
+    header{
+    
+        border-bottom: Solid #756400b0 !important;
+    
+    }
+
+    .logo{
+    
+        height: 100%;
+        width: 100%;
+    
+    }
+
+        .k{
+
+    width: 35% !important;
+    height: 35% !important;
+
+        }
+
+    .bg-escuro{
+    
+        background-color: #101010 !important;
+    
+    }
+
+    .margin-left{
+    
+        padding-top:0% !important;
+        padding-left: 1em !important;
+    
+    }
+
+}
+
+
+@media (min-width:301px) and (max-width: 720px){
+
+    #div_header_1{
+        
+        padding-top: 2%;
+        padding-bottom: 1% !important;
+        display: flex;
+        align-items: center;
+        gap:3%;
+    
+    }
+    
+    header{
+    
+        border-bottom: Solid #756400b0 !important;
+    
+    }
+
+    .logo{
+        
+        height: 100%;
+        width: 100%;
+    
+    }
+
+        .k{
+
+    width: 20% !important;
+    height: 20% !important;
+
+        }
+
+    .bg-escuro{
+        
+        background-color: #101010 !important;
+    
+    }
+
+    .margin-left{
+        
+        padding-top:0% !important;
+        padding-left: 1em !important;
+    
+    }
+
+}
+
+    @media (min-width:721px) and (max-width:1200px){
+
+        #div_header_1{
+    
+            padding-bottom: 1% !important;
+            display: flex;
+            align-items: center;
+            gap:3%;
+        
+        }
+
+        .k{
+
+    width: 20% !important;
+    height: 20% !important;
+            
+        }
+        
+        header{
+        
+            border-bottom: Solid #756400b0 !important;
+        
+        }
+
+        .logo{
+    
+            height: 100% !important;
+            width: 100%!important;
+        
+        }
+
+        .bg-escuro{
+    
+            background-color: #101010 !important;
+        
+        }
+
+        .margin-left{
+    
+            padding-top:0% !important;
+            padding-left: 1em !important;
+        
+        }
+
+    }
+
+        @media (min-width:1201px) and (max-width:1487px) {
+
+.navbar-toggler-icon{
+
+        height: 30px !important;
+        width: 50px !important;
+
+    }
+
+    .navbar-toggler{
+
+        height: 80px !important;
+        width: 100px !important;
+
+    }
+
+    .navbar-dark{
+
+        height: 3% !important;
+
+    }
+    
+    #div_header_1{
+    
+        padding-bottom: 1% !important;
+        display: flex;
+        align-items: center;
+        gap:4%;
+    
+    }
+    
+    header{
+    
+        border-bottom: Solid #756400b0 !important;
+    
+    }
+
+    .item-de-cima{
+
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+
+    .item-de-baixo{
+
+        padding-bottom: 2%;
+
+    }
+
+    .margin-left{
+
+        padding-top:0% !important;
+        padding-left: 2% !important;
+    
+    }
+    
+    .logo{
+    
+        height: 100%;
+        width: 100%;
+    
+    }
+
+    .k{
+
+width: 20% !important;
+height: 20% !important;
+
+    }
+            
+    .bg-escuro{
+    
+        background-color: #101010 !important;
+    
+    }
+
+}
+    
+@media (min-width:1488px) {
+
+    .navbar-toggler-icon{
+
+        height: 40px !important;
+        width: 60px !important;
+
+    }
+
+    .navbar-toggler{
+
+        height: 95px !important;
+        width: 120px !important;
+
+    }
+
+    .navbar-dark{
+
+        height: 4% !important;
+
+    }
+    
+    #div_header_1{
+    
+        padding-bottom: 1% !important;
+        display: flex;
+        align-items: center;
+        gap:3%;
+    
+    }
+    
+    header{
+    
+        border-bottom: Solid #756400b0 !important;
+    
+    }
+
+    .item-de-cima{
+
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+
+    .item-de-baixo{
+
+        padding-bottom: 2%;
+
+    }
+
+    .margin-left{
+
+        padding-top:0% !important;
+        padding-left: 2% !important;
+    
+    }
+    
+    .logo{
+    
+        height: 250px !important;
+        width: 250px !important;
+    
+    }
+
+        .k{
+
+    width: 250px !important;
+    height: 250px !important;
+
+        }
+
+    .bg-escuro{
+    
+        background-color: #101010 !important;
+    
+    }
+
+}

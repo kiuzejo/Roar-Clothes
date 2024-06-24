@@ -1,0 +1,11 @@
+.linkagem{
+
+  text-decoration:none !important;
+  
+}
+
+.linkagem:hover{
+
+  transform:scale(1.05);
+  
+}

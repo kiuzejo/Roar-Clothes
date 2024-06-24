@@ -1,0 +1,557 @@
+@media (max-width:300px){
+
+.iconos_redes_sociais{
+
+    list-style-type: none;
+    display: flex;
+    position: relative;
+}
+
+.iconos_redes_sociais li{
+
+    --cor1:#ff258e;
+    --cor2:#ffcf0f;
+    width: 50px;
+    height: 50px;
+    background-color: aliceblue;
+    box-shadow: 0 4px 10px rgba(240, 240, 240, 0.425);
+    border-radius: 50%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+
+    transition: 0.3s;
+
+}
+
+.iconos_redes_sociais li span{
+
+    position: absolute;
+
+}
+
+.iconos_redes_sociais li:hover{
+
+    width:115px;
+    border-radius: 35px;
+
+}
+
+
+
+.iconos_redes_sociais li .icon{
+
+    color: rgb(95, 95, 95);
+    font-size: 1.5em;
+    transition: 0.2s;
+
+}
+
+.iconos_redes_sociais li .texto{
+
+    color: rgb(241, 249, 255);
+    font-size: 1em;
+    transform: scale(0);
+    transition: 0.2s;
+    transition-delay: 0.2s;
+
+}
+
+.iconos_redes_sociais li:hover .icon{
+
+    transform: scale(0);
+
+}
+
+.iconos_redes_sociais li:hover .texto{
+
+    transform:scale(1);
+
+}
+
+.iconos_redes_sociais li::before{
+
+    content:'';
+    position: absolute;
+    background-image: linear-gradient(45deg ,var(--cor1), var(--cor2));
+    inset: 0;
+    opacity: 0;
+
+}
+
+.iconos_redes_sociais li:hover::before{
+
+    opacity: 1;
+    border-radius:35px;
+
+}
+
+}
+
+@media (min-width:301px) and (max-width: 450px){
+
+    .iconos_redes_sociais{
+
+        list-style-type: none;
+        display: flex;
+        position: relative;
+    }
+    
+    .iconos_redes_sociais li{
+    
+        --cor1:#ff258e;
+        --cor2:#ffcf0f;
+        width: 60px;
+        height: 60px;
+        background-color: aliceblue;
+        box-shadow: 0 6px 14px rgba(240, 240, 240, 0.425);
+        border-radius: 50%;
+    
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+        position: relative;
+    
+        transition: 0.3s;
+    
+    }
+    
+    .iconos_redes_sociais li span{
+    
+        position: absolute;
+    
+    }
+    
+    .iconos_redes_sociais li:hover{
+    
+        width:120px;
+        border-radius: 40px;
+    
+    }
+    
+    
+    
+    .iconos_redes_sociais li .icon{
+    
+        color: rgb(95, 95, 95);
+        font-size: 1.6em;
+        transition: 0.2s;
+    
+    }
+    
+    .iconos_redes_sociais li .texto{
+    
+        color: rgb(241, 249, 255);
+        font-size: 1.1em;
+        transform: scale(0);
+        transition: 0.2s;
+        transition-delay: 0.2s;
+    
+    }
+    
+    .iconos_redes_sociais li:hover .icon{
+    
+        transform: scale(0);
+    
+    }
+    
+    .iconos_redes_sociais li:hover .texto{
+    
+        transform:scale(1);
+    
+    }
+    
+    .iconos_redes_sociais li::before{
+    
+        content:'';
+        position: absolute;
+        background-image: linear-gradient(45deg ,var(--cor1), var(--cor2));
+        inset: 0;
+        opacity: 0;
+    
+    }
+    
+    .iconos_redes_sociais li:hover::before{
+    
+        opacity: 1;
+        border-radius:40px;
+    
+    }
+
+}
+
+@media (min-width: 451px) and (max-width:720px){
+
+    .iconos_redes_sociais{
+
+        list-style-type: none;
+        display: flex;
+        position: relative;
+    }
+    
+    .iconos_redes_sociais li{
+    
+        --cor1:#ff258e;
+        --cor2:#ffcf0f;
+        width: 70px;
+        height: 70px;
+        background-color: aliceblue;
+        box-shadow: 0 9px 18px rgba(240, 240, 240, 0.425);
+        border-radius: 50%;
+    
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+        position: relative;
+    
+        transition: 0.3s;
+    
+    }
+    
+    .iconos_redes_sociais li span{
+    
+        position: absolute;
+    
+    }
+    
+    .iconos_redes_sociais li:hover{
+    
+        width:140px;
+        border-radius: 50px;
+    
+    }
+    
+    
+    
+    .iconos_redes_sociais li .icon{
+    
+        color: rgb(95, 95, 95);
+        font-size: 1.8em;
+        transition: 0.2s;
+    
+    }
+    
+    .iconos_redes_sociais li .texto{
+    
+        color: rgb(241, 249, 255);
+        font-size: 1.4em;
+        transform: scale(0);
+        transition: 0.2s;
+        transition-delay: 0.2s;
+    
+    }
+    
+    .iconos_redes_sociais li:hover .icon{
+    
+        transform: scale(0);
+    
+    }
+    
+    .iconos_redes_sociais li:hover .texto{
+    
+        transform:scale(1);
+    
+    }
+    
+    .iconos_redes_sociais li::before{
+    
+        content:'';
+        position: absolute;
+        background-image: linear-gradient(45deg ,var(--cor1), var(--cor2));
+        inset: 0;
+        opacity: 0;
+    
+    }
+    
+    .iconos_redes_sociais li:hover::before{
+    
+        opacity: 1;
+        border-radius:50px;
+    
+    }
+
+} 
+
+@media (min-width: 721px) and (max-width: 1200px){
+
+    .iconos_redes_sociais{
+
+        list-style-type: none;
+        display: flex;
+        position: relative;
+    }
+    
+    .iconos_redes_sociais li{
+    
+        --cor1:#ff258e;
+        --cor2:#ffcf0f;
+        width: 70px;
+        height: 70px;
+        background-color: aliceblue;
+        box-shadow: 0 9px 18px rgba(240, 240, 240, 0.425);
+        border-radius: 50%;
+    
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+        position: relative;
+    
+        transition: 0.3s;
+    
+    }
+    
+    .iconos_redes_sociais li span{
+    
+        position: absolute;
+    
+    }
+    
+    .iconos_redes_sociais li:hover{
+    
+        width:140px;
+        border-radius: 50px;
+    
+    }
+    
+    
+    
+    .iconos_redes_sociais li .icon{
+    
+        color: rgb(95, 95, 95);
+        font-size: 1.8em;
+        transition: 0.2s;
+    
+    }
+    
+    .iconos_redes_sociais li .texto{
+    
+        color: rgb(241, 249, 255);
+        font-size: 1.4em;
+        transform: scale(0);
+        transition: 0.2s;
+        transition-delay: 0.2s;
+    
+    }
+    
+    .iconos_redes_sociais li:hover .icon{
+    
+        transform: scale(0);
+    
+    }
+    
+    .iconos_redes_sociais li:hover .texto{
+    
+        transform:scale(1);
+    
+    }
+    
+    .iconos_redes_sociais li::before{
+    
+        content:'';
+        position: absolute;
+        background-image: linear-gradient(45deg ,var(--cor1), var(--cor2));
+        inset: 0;
+        opacity: 0;
+    
+    }
+    
+    .iconos_redes_sociais li:hover::before{
+    
+        opacity: 1;
+        border-radius:50px;
+    
+    }
+
+}
+
+@media (min-width: 1201px) and (max-width:1487px){
+
+    .iconos_redes_sociais{
+
+        list-style-type: none;
+        display: flex;
+        position: relative;
+    }
+    
+    .iconos_redes_sociais li{
+    
+        --cor1:#ff258e;
+        --cor2:#ffcf0f;
+        width: 90px;
+        height: 90px;
+        background-color: aliceblue;
+        box-shadow: 0 9px 18px rgba(240, 240, 240, 0.425);
+        border-radius: 50%;
+    
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+        position: relative;
+    
+        transition: 0.3s;
+    
+    }
+    
+    .iconos_redes_sociais li span{
+    
+        position: absolute;
+    
+    }
+    
+    .iconos_redes_sociais li:hover{
+    
+        width:180px;
+        border-radius: 65px;
+    
+    }
+    
+    
+    
+    .iconos_redes_sociais li .icon{
+    
+        color: rgb(95, 95, 95);
+        font-size: 2.2em;
+        transition: 0.2s;
+    
+    }
+    
+    .iconos_redes_sociais li .texto{
+    
+        color: rgb(241, 249, 255);
+        font-size: 1.7em;
+        transform: scale(0);
+        transition: 0.2s;
+        transition-delay: 0.2s;
+    
+    }
+    
+    .iconos_redes_sociais li:hover .icon{
+    
+        transform: scale(0);
+    
+    }
+    
+    .iconos_redes_sociais li:hover .texto{
+    
+        transform:scale(1);
+    
+    }
+    
+    .iconos_redes_sociais li::before{
+    
+        content:'';
+        position: absolute;
+        background-image: linear-gradient(45deg ,var(--cor1), var(--cor2));
+        inset: 0;
+        opacity: 0;
+    
+    }
+    
+    .iconos_redes_sociais li:hover::before{
+    
+        opacity: 1;
+        border-radius:65px;
+    
+    }
+
+}
+
+    @media (min-width: 1488px){
+
+        .iconos_redes_sociais{
+
+            list-style-type: none;
+            display: flex;
+            position: relative;
+        }
+        
+        .iconos_redes_sociais li{
+        
+            --cor1:#ff258e;
+            --cor2:#ffcf0f;
+            width: 100px;
+            height: 100px;
+            background-color: aliceblue;
+            box-shadow: 0 8px 20px rgba(240, 240, 240, 0.425);
+            border-radius: 50%;
+        
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        
+            position: relative;
+        
+            transition: 0.3s;
+        
+        }
+        
+        .iconos_redes_sociais li span{
+        
+            position: absolute;
+        
+        }
+        
+        .iconos_redes_sociais li:hover{
+        
+            width:230px;
+            border-radius: 65px;
+        
+        }
+        
+        
+        
+        .iconos_redes_sociais li .icon{
+        
+            color: rgb(95, 95, 95);
+            font-size: 2.6em;
+            transition: 0.2s;
+        
+        }
+        
+        .iconos_redes_sociais li .texto{
+        
+            color: rgb(241, 249, 255);
+            font-size: 2em;
+            transform: scale(0);
+            transition: 0.2s;
+            transition-delay: 0.2s;
+        
+        }
+        
+        .iconos_redes_sociais li:hover .icon{
+        
+            transform: scale(0);
+        
+        }
+        
+        .iconos_redes_sociais li:hover .texto{
+        
+            transform:scale(1);
+        
+        }
+        
+        .iconos_redes_sociais li::before{
+        
+            content:'';
+            position: absolute;
+            background-image: linear-gradient(45deg ,var(--cor1), var(--cor2));
+            inset: 0;
+            opacity: 0;
+        
+        }
+        
+        .iconos_redes_sociais li:hover::before{
+        
+            opacity: 1;
+            border-radius:65px;
+        
+        }
+
+    }

@@ -1,0 +1,374 @@
+@media (max-width:300px) {
+
+.mae_search{
+    position: relative;
+    display: flex;
+    gap:1%;
+    height: 0px;
+    width: 0px;
+    overflow:hidden;
+    justify-content: space-between;
+    transition: 0.5s;
+}
+
+.lupa_search, .x_search {
+
+    height: 60px;
+    min-width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+
+}
+
+.mae_search.lupa-ativada{
+
+    width: 510px;
+
+}
+
+.x_search{
+
+    margin-left:20px;
+    padding-left: 10px;
+
+}
+
+.x_search i { 
+    color: #d3b610;
+    font-size: 80px;
+
+}
+
+.lupa_search i{
+
+    font-size: 35px;
+    color: #d3b610;
+
+}
+
+.input_search{
+
+    position: absolute;
+    left: 80px;
+    width: calc(100%-120px);
+    height: 100%;
+    line-height: 80px;
+
+}
+
+.input_search_label{
+
+    border: 0;
+    outline: 0;
+    font-size: 30px;
+
+}
+
+}
+
+@media (min-width:301px) and (max-width: 720px){
+
+    .mae_search{
+        position: relative;
+        display: flex;
+        gap:1%;
+        height: 0px;
+        width: 0px;
+        overflow:hidden;
+        justify-content: space-between;
+        transition: 0.5s;
+    }
+
+    .lupa_search, .x_search {
+
+        height: 80px;
+        min-width: 80px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+
+    }
+
+    .mae_search.lupa-ativada{
+
+        width: 510px;
+
+    }
+
+    .mae_search.x-clicado{
+
+    width: 80px;
+
+    }
+
+    .x_search{
+
+        margin-left:20px;
+        padding-left: 10px;
+
+    }
+
+    .x_search i { 
+        color: #d3b610;
+        font-size: 80px;
+
+    }
+
+    .lupa_search i{
+
+        font-size: 35px;
+        color: #d3b610;
+
+    }
+
+    .input_search{
+
+        position: absolute;
+        left: 80px;
+        width: calc(100%-120px);
+        height: 100%;
+        line-height: 80px;
+
+    }
+    
+    .input_search_label{
+
+        border: 0;
+        outline: 0;
+        font-size: 30px;
+
+    }
+
+}
+
+@media (min-width:721px) and (max-width:1200px){
+
+    .mae_search{
+        position: relative;
+        display: flex;
+        gap:1%;
+        height: 0px;
+        width: 0px;
+        overflow:hidden;
+        justify-content: space-between;
+        transition: 0.5s;
+    }
+
+    .lupa_search, .x_search {
+
+        height: 80px;
+        min-width: 80px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+
+    }
+
+    .mae_search.lupa-ativada{
+
+        width: 510px;
+
+    }
+
+    .mae_search.x-clicado{
+
+    width: 80px;
+
+    }
+
+    .x_search{
+
+        margin-left:20px;
+        padding-left: 10px;
+
+    }
+
+    .x_search i { 
+        color: #d3b610;
+        font-size: 80px;
+
+    }
+
+    .lupa_search i{
+
+        font-size: 35px;
+        color: #d3b610;
+
+    }
+
+    .input_search{
+
+        position: absolute;
+        left: 80px;
+        width: calc(100%-120px);
+        height: 100%;
+        line-height: 80px;
+
+    }
+    
+    .input_search_label{
+
+        border: 0;
+        outline: 0;
+        font-size: 30px;
+
+    }
+
+}
+
+@media (min-width:1201px) and (max-width:1487px) {
+
+    .mae_search{
+        position: relative;
+        display: flex;
+        gap:1%;
+        height: 80px;
+        width: 80px;
+        overflow:hidden;
+        justify-content: space-between;
+        transition: 0.5s;
+    }
+
+    .lupa_search, .x_search {
+
+        height: 80px;
+        min-width: 80px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+
+    }
+
+    .mae_search.lupa-ativada{
+
+        width: 510px;
+
+    }
+
+    .mae_search.x-clicado{
+
+    width: 80px;
+
+    }
+
+    .x_search{
+
+        margin-left:20px;
+        padding-left: 10px;
+
+    }
+
+    .x_search i { 
+        color: #d3b610;
+        font-size: 80px;
+
+    }
+
+    .lupa_search i{
+
+        font-size: 35px;
+        color: #d3b610;
+
+    }
+
+    .input_search{
+
+        position: absolute;
+        left: 80px;
+        width: calc(100%-120px);
+        height: 100%;
+        line-height: 80px;
+
+    }
+    
+    .input_search_label{
+
+        border: 0;
+        outline: 0;
+        font-size: 30px;
+
+    }
+
+}
+
+
+@media (min-width:1488px) {
+
+    .mae_search{
+        position: relative;
+        display: flex;
+        gap:1%;
+        height: 80px;
+        width: 80px;
+        overflow:hidden;
+        justify-content: space-between;
+        transition: 0.5s;
+    }
+
+    .lupa_search, .x_search {
+
+        height: 80px;
+        min-width: 80px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+
+    }
+
+    .mae_search.lupa-ativada{
+
+        width: 510px;
+
+    }
+
+    .mae_search.x-clicado{
+
+    width: 80px;
+
+    }
+
+    .x_search{
+
+        margin-left:20px;
+        padding-left: 10px;
+
+    }
+
+    .x_search i { 
+        color: #d3b610;
+        font-size: 80px;
+
+    }
+
+    .lupa_search i{
+
+        font-size: 35px;
+        color: #d3b610;
+
+    }
+
+    .input_search{
+
+        position: absolute;
+        left: 80px;
+        width: calc(100%-120px);
+        height: 100%;
+        line-height: 80px;
+
+    }
+    
+    .input_search_label{
+
+        border: 0;
+        outline: 0;
+        font-size: 30px;
+
+    }
+
+}

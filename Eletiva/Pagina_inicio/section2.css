@@ -1,0 +1,204 @@
+@media (max-width:300px) {
+
+.produtos {
+    border-top: Solid #756400b0 !important;
+    text-align: center;
+    padding: 6px 0;
+    background-color: #101010;
+}
+
+.container{
+    
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    gap: 40px !important;
+    padding-bottom: 40px
+
+}
+
+.veja-mais{
+    
+    text-decoration: none;
+    color:rgb(238, 190, 2) !important;
+    font-size: 2em !important;
+    font-weight: 100!important;
+    font-style:oblique !important;
+
+}
+
+.veja-mais:hover{
+
+    cursor: pointer;
+    font-size: 2.4em !important;
+}    
+
+}
+
+@media (min-width:301px) and (max-width: 720px){
+
+    .produtos {
+        border-top: Solid #756400b0 !important;
+        text-align: center;
+        padding: 20px 0;
+        background-color: #101010;
+    }
+
+    .container{
+        
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        gap: 60px !important;
+        padding-bottom: 60px;
+    
+    }
+
+    .veja-mais{
+        
+        text-decoration: none;
+        color:rgb(238, 190, 2) !important;
+        font-size: 2em !important;
+        font-weight: 100!important;
+        font-style:oblique !important;
+    
+    }
+    
+    .veja-mais:hover{
+    
+        cursor: pointer;
+        font-size: 2.4em !important;
+    }
+
+}
+
+@media (min-width:721px) and (max-width:1200px){
+
+    .produtos {
+
+        display: flex;
+        flex-direction: column;
+        border-top: Solid #756400b0 !important;
+        text-align: center;
+        padding: 50px 0;
+        background-color: #101010;
+        align-items: center !important;
+    }
+
+    .container{
+        
+        max-width: max-content !important;
+        margin-right:  0% !important;
+        margin-left: 0% !important;
+        display: grid !important;
+        grid-template-columns: 1fr 1fr;
+        gap: 60px !important;
+        padding-bottom: 60px;
+    
+    }
+
+    .veja-mais{
+    
+        text-decoration: none;
+        color:rgb(238, 190, 2) !important;
+        font-size: 2em !important;
+        font-weight: 100!important;
+        font-style:oblique !important;
+    
+    }
+    
+    .veja-mais:hover{
+    
+        cursor: pointer;
+        font-size: 2.4em !important;
+    }    
+
+}
+
+@media (min-width:1201px) and (max-width:1487px) {
+
+    .produtos {
+
+        display: flex;
+        flex-direction: column;
+        border-top: Solid #756400b0 !important;
+        text-align: center;
+        padding: 50px 0;
+        background-color: #101010;
+        align-items: center !important;
+        margin-top: 5%;
+    }
+
+    .container{
+        
+        max-width: max-content !important;
+        margin-right:  0% !important;
+        margin-left: 0% !important;
+        display: grid !important;
+        grid-template-columns: 1fr 1fr;
+        gap: 60px !important;
+        padding-bottom: 60px;
+    
+    }
+
+    .veja-mais{
+    
+        text-decoration: none;
+        color:rgb(238, 190, 2) !important;
+        font-size: 4em !important;
+        font-weight: 100!important;
+        font-style:oblique !important;
+    
+    }
+    
+    .veja-mais:hover{
+    
+        cursor: pointer;
+        font-size: 5em !important;
+    }
+
+}
+
+@media (min-width:1488px) {
+
+    .produtos {
+
+        display: flex;
+        flex-direction: column;
+        border-top: Solid #756400b0 !important;
+        text-align: center;
+        padding: 50px 0;
+        background-color: #101010;
+        align-items: center !important;
+        margin-top: 5%;
+    }
+
+    .container{
+        
+        max-width: 61% !important;
+        margin-right:  0% !important;
+        margin-left: 0% !important;
+        display: grid !important;
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 12% !important;
+        padding-bottom: 12%;
+    
+    }
+
+    .veja-mais{
+    
+        text-decoration: none;
+        color:rgb(238, 190, 2) !important;
+        font-size: 4em !important;
+        font-weight: 100!important;
+        font-style:oblique !important;
+    
+    }
+    
+    .veja-mais:hover{
+    
+        cursor: pointer;
+        font-size: 5em !important;
+    }
+
+}

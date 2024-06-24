@@ -1,0 +1,269 @@
+@media (max-width:300px) {
+
+    body {
+        background-color: #101010;
+        font-family: Arial, sans-serif;
+        background-image: url("Imagens_respectivas_ao_site/camisas1-.jpg");
+        background-size: cover; /* Redimensiona a imagem para cobrir todo o contêiner */
+        background-position: center;
+    }
+
+    .div-redesocial{
+
+        margin-bottom:0px;
+        padding-bottom: 6px;
+        padding-top: 8px;
+        width: 100vw;
+
+    }
+
+    .titulo{
+    
+        color:rgb(238, 190, 2);
+        margin-bottom: 18%;
+       
+       }
+       
+       #subtitulo{
+       
+           color:rgb(238, 190, 2) !important;
+           font-size: 1.6em !important;
+           font-weight: 300 !important;
+           font-style: normal !important;
+       
+       }
+       
+       #subtitulo-2{
+       
+           color:rgb(238, 190, 2) !important;
+           font-size: 1em !important;
+           font-weight: 100!important;
+           font-style:oblique !important;
+       
+       }
+       
+       .letra{
+       
+       color:aliceblue;
+       
+       }
+
+    }
+
+    @media (min-width:301px) and (max-width: 720px){
+
+        body {
+            background-color: #101010;
+            font-family: Arial, sans-serif;
+            background-image: url("Imagens_respectivas_ao_site/camisas1-.jpg");
+            background-size: cover; /* Redimensiona a imagem para cobrir todo o contêiner */
+            background-position: center;
+        }
+
+        .div-redesocial{
+
+            margin-bottom:0px;
+            padding-top:15px ;
+            padding-bottom: 10px;
+            width: 100vw;
+    
+        }
+
+        .titulo{
+        
+            color:rgb(238, 190, 2);
+            margin-bottom: 18%;
+           
+           }
+           
+           #subtitulo{
+           
+               color:rgb(238, 190, 2) !important;
+               font-size: 2.3em !important;
+               font-weight: 300 !important;
+               font-style: normal !important;
+           
+           }
+           
+           #subtitulo-2{
+           
+               color:rgb(238, 190, 2) !important;
+               font-size: 1.2em !important;
+               font-weight: 100!important;
+               font-style:oblique !important;
+           
+           }
+           
+           .letra{
+           
+           color:aliceblue;
+           
+           }
+
+        }
+           
+@media (min-width:721px) and (max-width:1200px){
+
+    body {
+        background-color: #101010;
+        font-family: Arial, sans-serif;
+        background-image: url("Imagens_respectivas_ao_site/camisas1-.jpg");
+        background-size: cover; /* Redimensiona a imagem para cobrir todo o contêiner */
+        background-position: center;
+    }
+
+    .div-redesocial{
+
+        margin-bottom:0px;
+        padding-top: 40px;
+        width: 100vw;
+
+    }
+
+    .titulo{
+    
+        color:rgb(238, 190, 2);
+        margin-bottom: 18%;
+       
+       }
+       
+       #subtitulo{
+       
+           color:rgb(238, 190, 2) !important;
+           font-size: 2.5em !important;
+           font-weight: 300 !important;
+           font-style: normal !important;
+       
+       }
+       
+       #subtitulo-2{
+       
+           color:rgb(238, 190, 2) !important;
+           font-size: 1.5em !important;
+           font-weight: 100!important;
+           font-style:oblique !important;
+       
+       }
+       
+       .letra{
+       
+       color:aliceblue;
+       
+       }
+
+    }
+
+    @media (min-width:1201px) and (max-width:1487px) {
+
+
+        body {
+            background-color: #101010;
+            font-family: Arial, sans-serif;
+            background-image: url("Imagens_respectivas_ao_site/camisas1-.jpg");
+            background-size: cover; /* Redimensiona a imagem para cobrir todo o contêiner */
+            background-position: center;
+        }
+
+        .div-redesocial{
+
+            margin-bottom:0px;
+            padding-left: 2%;
+            padding-top: 50px;
+            width: 100vw;
+
+        }
+
+        .titulo{
+    
+            color:rgb(238, 190, 2);
+            margin-bottom: 8%;
+            font-size: 4em;
+            margin-top: 4%;
+           
+           }
+           
+           #subtitulo{
+           
+               color:rgb(238, 190, 2) !important;
+               font-size: 3.5em !important;
+               font-weight: 300 !important;
+               font-style: normal !important;
+           
+           }
+           
+           #subtitulo-2{
+           
+               color:rgb(238, 190, 2) !important;
+               font-size: 2.6em !important;
+               font-weight: 100!important;
+               font-style:oblique !important;
+           
+           }
+           
+           .letra{
+           
+           color:aliceblue;
+           
+           }
+
+        }
+
+        @media (min-width:1488px) {
+
+            body {
+                background-color: #101010;
+                font-family: Arial, sans-serif;
+                background-image: url("Imagens_respectivas_ao_site/camisas1-.jpg");
+                background-size: cover; /* Redimensiona a imagem para cobrir todo o contêiner */
+                background-position: center;
+            }
+
+            .div-redesocial{
+
+                padding-left: 5%;
+                margin-bottom:0px !important;
+                padding-top: 50px;
+                width: 100vw;
+        
+            }
+
+            .titulo{
+    
+                color:rgb(238, 190, 2);
+                margin-bottom: 8%;
+                font-size: 4em;
+                margin-top: 4%;
+               
+               }
+               
+               #subtitulo{
+               
+                   color:rgb(238, 190, 2) !important;
+                   font-size: 4em !important;
+                   font-weight: 300 !important;
+                   font-style: normal !important;
+               
+               }
+               
+               #subtitulo-2{
+               
+                   color:rgb(238, 190, 2) !important;
+                   font-size: 3em !important;
+                   font-weight: 100!important;
+                   font-style:oblique !important;
+               
+               }
+               
+               .letra{
+               
+               color:aliceblue;
+               
+               }
+
+            }
+
+
+            
+
+
+        
