@@ -512,7 +512,7 @@
         .iconos_redes_sociais li .icon{
         
             color: rgb(95, 95, 95);
-            font-size: 3.5em;
+            font-size: 3em;
             transition: 0.2s;
             transition-delay: 0.2s;
             
@@ -521,7 +521,7 @@
         .iconos_redes_sociais li .texto{
         
             color: rgb(241, 249, 255);
-            font-size: 3em;
+            font-size: 1.4em;
             transform: scale(0);
             transition: 0.2s;
 
