@@ -1,7 +1,7 @@
 @media (max-width:300px) {
 
     body {
-        background-color: #101010;
+        background-color: #101010 !important;
         font-family: Arial, sans-serif;
         
         background-size: cover; /* Redimensiona a imagem para cobrir todo o contêiner */
@@ -11,6 +11,7 @@
     .div-redesocial{
 
         background-color: #101010;
+        margin-top:50%;
         margin-bottom:0px;
         padding-bottom: 6px;
         padding-top: 8px;
@@ -54,7 +55,7 @@
     @media (min-width:301px) and (max-width: 720px){
 
         body {
-            background-color: #101010;
+            background-color: #101010 !important;
             font-family: Arial, sans-serif;
             
             background-size: cover; /* Redimensiona a imagem para cobrir todo o contêiner */
@@ -65,6 +66,7 @@
 
             background-color: #101010;
             margin-bottom:0px;
+            margin-top:45%;
             padding-top:15px ;
             padding-bottom: 10px;
             width: 100vw;
@@ -74,7 +76,6 @@
         .titulo{
         
             color:rgb(238, 190, 2);
-            font-size: 2.4em;
             margin-bottom: 18%;
            
            }
@@ -108,7 +109,7 @@
 @media (min-width:721px) and (max-width:1200px){
 
     body {
-        background-color: #101010;
+        background-color: #101010 !important;
         font-family: Arial, sans-serif;
         
         background-size: cover; /* Redimensiona a imagem para cobrir todo o contêiner */
@@ -119,6 +120,7 @@
 
         background-color: #101010;
         margin-bottom:0px;
+        margin-top:5%;
         padding-top: 40px;
         padding-bottom:40px;
         width: 100vw;
@@ -135,7 +137,6 @@
     
         color:rgb(238, 190, 2);
         margin-bottom: 14%;
-        font-size: 3em;
        
        }
        
@@ -169,7 +170,7 @@
 
 
         body {
-            background-color: #101010;
+            background-color: #101010 !important;
             font-family: Arial, sans-serif;
             
             background-size: cover; /* Redimensiona a imagem para cobrir todo o contêiner */
@@ -180,6 +181,7 @@
 
             background-color: #101010;
             margin-bottom:0px;
+            margin-top:5%;
             padding-left: 2%;
             padding-top: 60px;
             padding-bottom:60px;
@@ -197,7 +199,6 @@
     
             color:rgb(238, 190, 2);
             margin-bottom: 12%;
-            font-size: 3.6em;
             margin-top: 5%;
            
            }
@@ -231,7 +232,7 @@
         @media (min-width:1488px) {
 
             body {
-                background-color: #101010;
+                background-color: #101010 !important;
                 font-family: Arial, sans-serif;
    
                 background-size: cover; /* Redimensiona a imagem para cobrir todo o contêiner */
@@ -243,6 +244,7 @@
                 background-color: #101010;
                 padding-left: 5%;
                 margin-bottom:0px !important;
+                margin-top:5%;
                 padding-top: 3vw;
                 padding-bottom: 3vw;
                 width: 100vw
@@ -258,9 +260,9 @@
             .titulo{
     
                 color:rgb(238, 190, 2);
-                margin-bottom: 10%;
-                font-size: 4.4em;
+                margin-bottom: 9%;
                 margin-top: 3%;
+                font-size:2.5em;
                
                }
                
