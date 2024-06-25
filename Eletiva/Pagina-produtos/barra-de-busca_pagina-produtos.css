@@ -24,7 +24,7 @@
     position: relative;
     display: flex;
     height: 30px;
-    width: 205px;
+    width: 180px;
     overflow:hidden;
     justify-content: space-between;
     transition: 0.5s;
@@ -101,7 +101,7 @@
         position: relative;
         display: flex;
         height: 35px;
-        width: 245px;
+        width: 218px;
         overflow:hidden;
         justify-content: space-between;
         transition: 0.5s;
@@ -180,7 +180,7 @@
         position: relative;
         display: flex;
         height: 40px;
-        width: 285px;
+        width: 248px;
         overflow:hidden;
         justify-content: space-between;
         transition: 0.5s;
@@ -258,7 +258,7 @@
         position: relative;
         display: flex;
         height: 50px;
-        width: 350px;
+        width: 318px;
         overflow:hidden;
         justify-content: space-between;
         transition: 0.5s;
@@ -327,7 +327,7 @@
     
         display:flex;
         justify-content: center;
-        margin-bottom: 12%;
+        margin-bottom: 9%;
     
     }
     
@@ -335,8 +335,8 @@
     
         position: relative;
         display: flex;
-        height: 80px;
-        width: 490px;
+        height: 50px;
+        width: 440px;
         overflow:hidden;
         justify-content: space-between;
         transition: 0.5s;
@@ -345,7 +345,7 @@
     
     .lupa_search, .x_search {
     
-        height: 80px;
+        height: 50px;
         min-width: 20px;
         display: flex;
         justify-content: center;
@@ -356,7 +356,7 @@
     
     .x_search i { 
         color: #d3b610;
-        font-size: 70px;
+        font-size: 65px;
     
     }
     
@@ -372,8 +372,8 @@
         position: absolute;
         left: 70px;
         width: calc(100%-120px);
-        height: 80px;
-        line-height: 80px;
+        height: 50px;
+        line-height: 50px;
     
     }
     
@@ -412,8 +412,8 @@
 
             position: relative;
             display: flex;
-            height: 90px;
-            width: 650px;
+            height: 60px;
+            width: 530px;
             overflow:hidden;
             justify-content: space-between;
             transition: 0.5s;
@@ -422,7 +422,7 @@
 
         .lupa_search, .x_search {
 
-            height: 90px;
+            height: 60px;
             min-width: 20px;
             display: flex;
             justify-content: center;
@@ -433,13 +433,13 @@
 
         .x_search i { 
             color: #d3b610;
-            font-size: 90px;
+            font-size: 75px;
 
         }
 
         .lupa_search i{
 
-            font-size: 55px;
+            font-size: 45px;
             color: #d3b610;
 
         }
@@ -449,8 +449,8 @@
             position: absolute;
             left: 80px;
             width: calc(100%-120px);
-            height: 90px;
-            line-height: 90px;
+            height: 60px;
+            line-height: 60px;
 
         }
 
@@ -458,7 +458,7 @@
 
             border: 0;
             outline: 0;
-            font-size: 35px;
+            font-size: 30px;
 
         }
 
