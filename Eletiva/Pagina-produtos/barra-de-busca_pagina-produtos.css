@@ -24,7 +24,7 @@
     position: relative;
     display: flex;
     height: 30px;
-    width: 180px;
+    width: 205px;
     overflow:hidden;
     justify-content: space-between;
     transition: 0.5s;
@@ -101,7 +101,7 @@
         position: relative;
         display: flex;
         height: 35px;
-        width: 218px;
+        width: 245px;
         overflow:hidden;
         justify-content: space-between;
         transition: 0.5s;
@@ -180,7 +180,7 @@
         position: relative;
         display: flex;
         height: 40px;
-        width: 248px;
+        width: 280px;
         overflow:hidden;
         justify-content: space-between;
         transition: 0.5s;
@@ -258,7 +258,7 @@
         position: relative;
         display: flex;
         height: 50px;
-        width: 318px;
+        width: 355px;
         overflow:hidden;
         justify-content: space-between;
         transition: 0.5s;
@@ -336,7 +336,7 @@
         position: relative;
         display: flex;
         height: 50px;
-        width: 440px;
+        width: 485px;
         overflow:hidden;
         justify-content: space-between;
         transition: 0.5s;
@@ -413,7 +413,7 @@
             position: relative;
             display: flex;
             height: 60px;
-            width: 530px;
+            width: 580px;
             overflow:hidden;
             justify-content: space-between;
             transition: 0.5s;
