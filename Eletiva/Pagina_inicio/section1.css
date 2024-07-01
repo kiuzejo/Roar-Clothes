@@ -16,7 +16,7 @@ section{
 
 .carousel-inner{
 
-    height: 275px !important;
+    height: 335px !important;
     width: 80vw !important;
     overflow: hidden !important;
 
@@ -42,7 +42,7 @@ section{
     
     .carousel-inner{
     
-        height: 375px !important;
+        height: 415px !important;
         width: 80vw !important;
         overflow: hidden !important;
     
@@ -68,7 +68,7 @@ section{
     
     .carousel-inner{
     
-        height: 500px !important;
+        height: 600px !important;
         width: 80vw !important;
         overflow: hidden !important;
     
@@ -94,7 +94,7 @@ section{
     
     .carousel-inner{
     
-        height: 50vw !important;
+        height: 65vw !important;
         width: 80vw !important;
         overflow: hidden !important;
     
@@ -143,7 +143,7 @@ section{
 
 .carousel-inner{
 
-    height: 50vw !important;
+    height: 65vw !important;
     width: 80vw !important;
     overflow: hidden !important;
 
