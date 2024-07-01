@@ -1,0 +1,163 @@
+@media (max-width: 300px){
+
+.imgcomissoes1{
+
+  margin-bottom:60px !important;
+  width:250px;
+  height:200px
+  
+}
+
+.imgcomissoes2{
+
+  margin-bottom:60px !important;
+  width:200px;
+  height:250px;
+  
+}
+
+.imgcomissoes3{
+
+  margin-bottom:60px !important;
+  width:220px;
+  height:220px;
+  
+}
+
+}
+
+@media (min-width: 301px) and (max-width: 450px){
+
+  .imgcomissoes1{
+    margin-bottom:70px !important;
+    width:260px;
+    height:210px
+
+  }
+
+  .imgcomissoes2{
+
+    margin-bottom:70px !important;
+    width:210px;
+    height:260px;
+
+  }
+
+  .imgcomissoes3{
+
+    margin-bottom:70px !important;
+    width:230px;
+    height:230px;
+
+  }
+  
+}
+
+@media (min-width: 451px) and (max-width:670px){
+
+  .imgcomissoes1{
+    margin-bottom:80px !important;
+    width:300px;
+    height:250px
+
+  }
+
+  .imgcomissoes2{
+
+    margin-bottom:80px !important;
+    width:250px;
+    height:300px;
+
+  }
+
+  .imgcomissoes3{
+
+    margin-bottom:80px !important;
+    width:280px;
+    height:280px;
+
+  }
+  
+}
+
+@media (min-width: 671px) and (max-width:900px){
+
+  .imgcomissoes1{
+    margin-bottom:100px !important;
+    width:500px;
+    height:400px
+
+  }
+
+  .imgcomissoes2{
+
+    margin-bottom:100px !important;
+    width:400px;
+    height:500px;
+
+  }
+
+  .imgcomissoes3{
+
+    margin-bottom:100px !important;
+    width:450px;
+    height:450px;
+
+  }
+  
+}
+
+@media (min-width: 901px) and (max-width:1200px){
+
+  .imgcomissoes1{
+    margin-bottom:9vw !important;
+    width:700px;
+    height:525px
+
+  }
+
+  .imgcomissoes2{
+
+    margin-bottom:9vw !important;
+    width:525px;
+    height:700px;
+
+  }
+
+  .imgcomissoes3{
+
+    margin-bottom:9vw !important;
+    width:600px;
+    height:600px;
+
+  }
+  
+}
+
+@media (min-width: 1201px){
+
+
+  .imgcomissoes1{
+    margin-bottom:9vw !important;
+    width:60vw;
+    height:45vw;
+
+  }
+
+  .imgcomissoes2{
+
+    margin-bottom:9vw !important;
+    width:45vw;
+    height:60vw;
+
+  }
+
+  .imgcomissoes3{
+
+    margin-bottom:9vw !important;
+    width:52vw;
+    height:52vw;
+
+  }
+  
+}
